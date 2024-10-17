@@ -1,6 +1,6 @@
 # hellooooooo!! I was bored so I made this :3
 
-# it's silly basic external for beginners, lots of comments to describe what everything does.
+# it's a silly basic external for Assault Cube, for beginners, I added lots of comments to describe what everything does.
 
 # Made in C#, uses swed's library for familiarity for beginners
 
