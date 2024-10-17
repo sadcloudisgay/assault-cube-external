@@ -4,6 +4,8 @@
 
 # Made in C#, uses swed's library for familiarity for beginners
 
+# Game version : 1.3.0.2
+# Offsets are up to date
 ---------------------------------------------------------------------------------------------------
 
 # FEATURE LIST
