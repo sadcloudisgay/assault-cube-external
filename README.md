@@ -12,11 +12,12 @@
 
 - Godmode # (APPLIES ON BOTS) (won't work online, restart your game)
 - Infinite ammo # (APPLIES ON BOTS) (won't work online, restart your game)
-- Bullet tp (mouse1)
-- Silent bullet tp
 - Aimbot (mouse2)
 - Teleport to closest enemy (mouse5)
-  
+
+# EXPLOITS
+- Bullet tp (mouse1)
+- Silent bullet tp
 ---------------------------------------------------------------------------------------------------
 
 # SHOWCASE
