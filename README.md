@@ -18,6 +18,7 @@
 # EXPLOITS
 - Bullet tp (mouse1)
 - Silent bullet tp
+- Enemy TP to crosshair
 ---------------------------------------------------------------------------------------------------
 
 # SHOWCASE
