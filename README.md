@@ -16,9 +16,9 @@
 - Teleport to closest enemy (mouse5)
 
 # EXPLOITS
-- Bullet tp (mouse1)
-- Silent bullet tp
-- Enemy TP to crosshair
+- Bullet teleport (mouse1)
+- Silent bullet teleport
+- Enemy teleport to crosshair (mouse1)
 ---------------------------------------------------------------------------------------------------
 
 # SHOWCASE
